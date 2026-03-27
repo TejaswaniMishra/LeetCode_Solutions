@@ -1,4 +1,4 @@
-// LeetCode 35 - Search in Rotated Sorted Array
+// LeetCode 35 - Search Insert Position 
 // Approach: Binary Search
 // Time Complexity: O(log n)
 // Space Complexity: O(1)
